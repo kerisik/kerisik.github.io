@@ -1,2 +1,2 @@
 # kerisik.github.io
-www.kerisik.com website
+Content for kerisik.com website
